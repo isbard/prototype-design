@@ -1,0 +1,33 @@
+
+.dark  {background-color:#DF9A57;}
+.main  {background-color:#FFCF56;}
+.light {background-color:#F9DC5C;}
+.offset{background-color:#A9BCD0;}
+.whites{background-color:#E7DFE8;}
+.blacks{background-color:#2D2A32;}
+
+
+h1{
+  font-size:20px;
+}
+h2{
+  font-size: 18px;
+}
+
+.sidebar{
+  display: block;
+  color: #fff;
+  background-color: #333;
+  height:100%;
+}
+
+.top-info{
+  height: 2em;
+  color: #fff;
+  background-color: #FFCF56;
+}
+
+.bottom-info{
+  background-color: #F9DC5C;
+  color: #2D2A32;
+}
